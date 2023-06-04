@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  TestRepository-MacOs
+//  Test-iOs
 //
 //  Created by Ринат Шарафутдинов on 04.06.2023.
 //

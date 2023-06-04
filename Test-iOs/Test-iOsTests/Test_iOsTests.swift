@@ -1,14 +1,14 @@
 //
-//  TestRepository_MacOsTests.swift
-//  TestRepository-MacOsTests
+//  Test_iOsTests.swift
+//  Test-iOsTests
 //
 //  Created by Ринат Шарафутдинов on 04.06.2023.
 //
 
 import XCTest
-@testable import TestRepository_MacOs
+@testable import Test_iOs
 
-final class TestRepository_MacOsTests: XCTestCase {
+final class Test_iOsTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
